@@ -1,3 +1,1 @@
-# Template for tasks of C++ course
-
-> NOTE: Change project name in CMakeLists.txt
+Релизуйте упрощенную версию [std::function](https://en.cppreference.com/w/cpp/utility/functional/function) с использованием small-object оптимизации
