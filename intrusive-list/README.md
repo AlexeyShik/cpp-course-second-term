@@ -1,3 +1,1 @@
-# Template for tasks of C++ course
-
-> NOTE: Change project name in CMakeLists.txt
+Реализуйте упрощенную версию [intrusive-list](https://www.boost.org/doc/libs/1_67_0/doc/html/intrusive/list.html)
